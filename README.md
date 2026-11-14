@@ -1,4 +1,4 @@
-# ** Adverse Events to Loop Diuretics combined with guideline-directed medical therapies for Heart Failure: a pharmacovigilance analysis**
+# Adverse Events to Loop Diuretics combined with guideline-directed medical therapies for Heart Failure: a pharmacovigilance analysis
 #  
 ## 📌 Background
 American guidelines recommend the use of diuretics in combination with GDMT (including angiotensin-converting enzyme [ACE] inhibitors, angiotensin II receptor blockers [ARBs], and angiotensin receptor–neprilysin inhibitors [ARNIs], sodium–glucose co-transporter 2 [SGLT2 inhibitors, mineralocorticoid receptor antagonists [MRAs]) although these agents are not considered disease-modifying therapies.
